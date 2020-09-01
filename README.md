@@ -9,6 +9,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-FD1D5B?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luanrodrigues.py/)
 [![Site pessoal](https://img.shields.io/badge/-Website-41A6B6?style=for-the-badge)](https://luansilva.netlify.app/)
 
+<a href="https://twitter.com/luandeveloper">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/luandeveloper?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@luandeveloper">
+</a>
 <!-- <div align="left">
     <h3>
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Luan Rodrigues | 💻 Web Designer Sênior | 🛸 São Paulo , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -27,11 +30,7 @@
 </p>
 
 <p align="center">
-   <a href="https://twitter.com/luandeveloper">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/luandeveloper?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@luandeveloper">
-    <img alt="Instagram Follow" src="https://img.shields.io/instagram/follow/luanrodrigues.py">
-    <img alt="Instagram Follow" src="https://img.shields.io/linkedin/follow/luanrodrigues.py?style=for-the-badge&color=09f&labelColor=black&logo=instagram&label=@luanrodrigues.py">
-    </a>
+
  </p>
  
 <br />

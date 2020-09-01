@@ -19,9 +19,10 @@
 
 <p aling="left">
     <img src="https://github-readme-stats.vercel.app/api?username=lrs96&show_icons=true&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs96&layout=compact)](https://github.com/lrs96/github-readme-stats"> 
 </p>
-
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs96&layout=compact)](https://github.com/lrs96/github-readme-stats"> 
+</p>
 
 <p align="center">
    <a href="https://twitter.com/luandeveloper"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/luandeveloper?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@luandeveloper"></a>

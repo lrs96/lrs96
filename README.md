@@ -2,12 +2,13 @@
 <img src="https://user-images.githubusercontent.com/30847731/91852184-da1dda00-ec36-11ea-8bb1-ccf31215335b.png" alt="Luan Rodrigues">
 </p>
 <div align="left">
-   <h1>Olá, eu sou o <a href="https://luansilva.netlify.app/">Luan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Olá, eu sou o <a href="https://luansilva.netlify.app/">Luan</a>, Front-end developer e UI Designer no Brasil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-
 <div align="left">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Luan Rodrigues | 💻 Web Designer Sênior | 🛸 São Paulo , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+    <h3>
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Luan Rodrigues | 💻 Web Designer Sênior | 🛸 São Paulo , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    </h3>
 </div>
 
 <p aling="left">

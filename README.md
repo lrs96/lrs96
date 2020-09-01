@@ -4,10 +4,10 @@
 <div align="left">
    <h1>Olá, eu sou o <a href="https://luansilva.netlify.app/">Luan</a>, Front-end developer e UI Designer no Brasil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-[![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheSweet_Lari)
-[![Twitch](https://img.shields.io/badge/-Twitch-522D94?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/thesweet_lari)
-[![Instagram](https://img.shields.io/badge/-Instagram-FD1D5B?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thesweet_lari/)
-[![Website](https://img.shields.io/badge/-Website-41A6B6?style=for-the-badge)](https://larissaabreu.dev/)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/luandeveloper)
+[![Instagram](https://img.shields.io/badge/-Instagram-FD1D5B?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luanrodrigues.py/)
+[![Site pessoal](https://img.shields.io/badge/-Website-41A6B6?style=for-the-badge)](https://luansilva.netlify.app/)
 
 <!-- <div align="left">
     <h3>

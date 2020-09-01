@@ -21,7 +21,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lrs96&show_icons=true&theme=dracula">
 </p>
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs96&layout=compact)](https://github.com/lrs96/github-readme-stats"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs96&layout=compact"> 
 </p>
 
 <p align="center">

@@ -1,27 +1,24 @@
-<div align="center">
+<p>
+<img src="https://user-images.githubusercontent.com/30847731/91852184-da1dda00-ec36-11ea-8bb1-ccf31215335b.png" alt="Luan Rodrigues">
+</p>
+<div align="left">
    <h1>Olá, eu sou o <a href="https://luansilva.netlify.app/">Luan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<p align='center'>
-    <a href="https://www.linkedin.com/in/luanlrs96/">
-        <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
-    </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/luandeveloper">
-        <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
-        </a>
-        &nbsp;&nbsp;
- </p>
 
-
-<div align="center">
+<div align="left">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Luan Rodrigues | 💻 Web Designer Sênior | 🛸 São Paulo , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <p aling="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=lrs96&show_icons=true&theme=dracula">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=lrs96&show_icons=true&theme=dracula">
+    </a>
 </p>
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs96&layout=compact"> 
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs96&layout=compact&theme=dracula"> 
+    </a>
 </p>
 
 <p align="center">

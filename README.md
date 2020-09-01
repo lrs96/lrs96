@@ -10,7 +10,7 @@
 [![Site pessoal](https://img.shields.io/badge/-Website-41A6B6?style=for-the-badge)](https://luansilva.netlify.app/)
 
 <a href="https://twitter.com/luandeveloper">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/luandeveloper?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@luandeveloper">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/luandeveloper?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@luandeveloper">
 </a>
 <!-- <div align="left">
     <h3>
@@ -22,11 +22,12 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=lrs96&show_icons=true&theme=dracula">
     </a>
-</p>
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs96&layout=compact&theme=dracula"> 
     </a>
+</p>
+<p>
+   
 </p>
 
 <p align="center">

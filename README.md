@@ -20,10 +20,10 @@
 
 <p aling="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=lrs96&show_icons=true&theme=dracula">
+        <img src="https://github-readme-stats.vercel.app/api?username=lrs96&show_icons=true&theme=dracula" style="width: 50%">
     </a>
      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs96&layout=compact&theme=dracula"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs96&layout=compact&theme=dracula" style="width: 40%;"> 
     </a>
 </p>
 <p>

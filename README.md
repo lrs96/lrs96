@@ -3,8 +3,13 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/luanlrs96/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/luandeveloper"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/luanlrs96/">
+        <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
+    </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/luandeveloper">
+        <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
+        </a>
+        &nbsp;&nbsp;
  </p>
 
 
@@ -14,26 +19,16 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/luandeveloper"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/8bithemant?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@luandeveloper"></a>
+   <a href="https://twitter.com/luandeveloper"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/luandeveloper?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@luandeveloper"></a>
  </p>
  
- 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
   <h3>Tenho 23 anos, sou Web Designer Sênior na Kalunga a atuo como Front End e Ui Designer em freelas.<br>Membro do comitê da comunidade Hackathon Brasil e organizador da comunidade WordPress São Paulo </h3>
 </p>
 
  - Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
    
- - 🔭 SpaceX FanBoi, Vanilla in Space😼
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
- 
- - I do ReactJS and JavaScript with *Redux - Context - Hooks* and a lot of love :heart:
- 
- - MERN stack Developer
- 
  <!-- <p align="center">
   <h4> System Design | Web Development | Micro Services | Competetive Programming | Machine Learning </h4>
    </p> -->

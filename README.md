@@ -6,6 +6,7 @@
 </div>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/luandeveloper)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-41A6B6?style=for-the-badge&Logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luanlrs/)
 [![Instagram](https://img.shields.io/badge/-Instagram-FD1D5B?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luanrodrigues.py/)
 [![Site pessoal](https://img.shields.io/badge/-Website-41A6B6?style=for-the-badge)](https://luansilva.netlify.app/)
 

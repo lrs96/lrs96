@@ -5,10 +5,10 @@
    <h1>Olá, eu sou o <a href="https://luansilva.netlify.app/">Luan</a>, Front-end developer e UI Designer no Brasil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/luandeveloper){:target="_blank"}
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luanlrs/){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/-Instagram-FD1D5B?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luanrodrigues.py/){:target="_blank"}
-[![Site pessoal](https://img.shields.io/badge/-Website-41A6B6?style=for-the-badge)](https://luansilva.netlify.app/){:target="_blank"}
+[![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white){:target="_blank"}](https://twitter.com/luandeveloper)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white){:target="_blank"}](https://www.linkedin.com/in/luanlrs/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FD1D5B?style=for-the-badge&logo=Instagram&logoColor=white){:target="_blank"}](https://www.instagram.com/luanrodrigues.py/)
+[![Site pessoal](https://img.shields.io/badge/-Website-41A6B6?style=for-the-badge){:target="_blank"}](https://luansilva.netlify.app/)
 
 <a href="https://twitter.com/luandeveloper">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/luandeveloper?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@luandeveloper">
